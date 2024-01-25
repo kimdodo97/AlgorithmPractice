@@ -1,3 +1,5 @@
+package 백준심화1;
+
 import java.util.Scanner;
 public class 베라의패션 {
     public static void main(String[] args) {

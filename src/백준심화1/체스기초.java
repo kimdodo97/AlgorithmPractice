@@ -1,3 +1,5 @@
+package 백준심화1;
+
 import java.util.*;
 public class 체스기초 {
     public static void main(String[] args) {
