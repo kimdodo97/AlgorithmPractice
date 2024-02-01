@@ -1,4 +1,4 @@
-package 백준심화1;
+package 백준.백준심화1;
 
 import java.util.Scanner;
 

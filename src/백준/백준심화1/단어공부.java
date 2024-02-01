@@ -1,9 +1,8 @@
-package 백준심화1;
+package 백준.백준심화1;
 
-import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Scanner;
-
+//해당 문제는 해쉬맵보다 26개의 길이의 알파벳 배열을 쓰는것이 메모리 효율적 일것으로 보임
 public class 단어공부{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
