@@ -4,12 +4,12 @@ import java.io.*;
 import java.util.stream.Stream;
 
 public class 음료얼려먹기 {
-     public static Queue<Integer> queue = new LinkedList<>();
+    public static Queue<Integer> queue = new LinkedList<>();
     public static boolean[][] visited;
-     public static int N;
-     public static int M;
-     public static int[][] graph;
-     public static void main(String args[]) throws IOException {
+    public static int N;
+    public static int M;
+    public static int[][] graph;
+    public static void main(String args[]) throws IOException {
          BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
          StringTokenizer st = new StringTokenizer(br.readLine());
          N = Integer.parseInt(st.nextToken());
